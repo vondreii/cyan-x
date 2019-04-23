@@ -24,13 +24,13 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 ## Controls ##
 Action  	  	| Controls
 --------------- | -------------
-Walk Left 	  	| Left Keyboard arrow or 'a'
-Walk Right	  	| Right keyboard arrow or 'd'
+Walk Left 	  	| Left Keyboard arrow or 'A'
+Walk Right	  	| Right keyboard arrow or 'D'
 Jump		  	| Spacebar
-Open/Close Menu | 'M'
-Attack			| 'Z'
+Open/Close Menu | 'M' key
+Attack			| 'Z' key
 
 
 <img src="https://github.com/vondreii/CyanX/tree/master/Images/Capture.PNG" width="100" height="100">
 
-![Alt text](Images/Capture.PNG?raw=true "Gameplay"){:height="50%" width="50%"}
+![Alt text](Images/Capture.PNG?raw=true width=100)
