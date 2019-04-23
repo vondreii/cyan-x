@@ -31,6 +31,6 @@ Open/Close Menu | 'M' key
 Attack			| 'Z' key
 
 
-<img src="https://github.com/vondreii/CyanX/tree/master/Images/Capture.PNG" width="100" height="100">
+<img src="https://raw.githubusercontent.com/vondreii/CyanX/tree/master/Images/Capture.PNG" width="100" height="100">
 
 ![Alt text](Images/Capture.PNG?raw=true width=100)
