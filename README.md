@@ -31,4 +31,4 @@ Open/Close Menu | 'M'
 Attack			| 'Z'
 
 
-![Alt text](Images/Capture.PNG?raw=true "Gameplay" | width=100)
+![Alt text](Images/Capture.PNG?raw=true "Gameplay"){:height="50%" width="50%"}
