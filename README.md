@@ -9,12 +9,12 @@ consists of 3 levels. The mission is for Mia to rescue captured animals from
 the Nezbots who are guarding them.
 
 ## Running the Game ##
-* You can play the executable file, CyanX.exe , provided in the folder Run CyanX Build.
-* To run the game using unity, please ensure you have installed Unity on your PC (2017
-versions or higher).
+You can play the executable file, CyanX.exe , provided in the folder Run CyanX Build.\
+To run the game using unity, please ensure you have installed Unity on your PC (2017
+versions or higher).\
 System Requirements for Unity:
-OS : Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.11+.
-GPU: Graphics card with DX10 (shader model 4.0) capabilities.
+* OS : Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.11+.
+* GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 
 1. Run Unity
 2. Select ‘Open’
