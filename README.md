@@ -32,6 +32,4 @@ Open/Close Menu | 'M' key
 Attack			| 'Z' key
 
 
-<!---
 ![Alt text](Images/Capture.PNG?raw=true "Gameplay")
--->
