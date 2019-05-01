@@ -22,7 +22,10 @@ GPU: Graphics card with DX10 (shader model 4.0) capabilities.
 3. Navigate to the Unity Folder. This is the folder called ‘CyanX’ and open it.
 4. Select the play button at the top of the window.
 
-## Controls ##
+## Controls and Gameplay ##
+
+![Alt text](Images/Capture.PNG?raw=true "Gameplay")
+
 Action  	  	| Controls
 --------------- | -------------
 Walk Left 	  	| Left Keyboard arrow or 'A'
@@ -32,4 +35,4 @@ Open/Close Menu | 'M' key
 Attack			| 'Z' key
 
 
-![Alt text](Images/Capture.PNG?raw=true "Gameplay")
+
