@@ -1,4 +1,4 @@
-# CyanX #
+# Cyan X #
 
 ## Overview ##
 A simple 2D Platformer Game with 3 levels.
